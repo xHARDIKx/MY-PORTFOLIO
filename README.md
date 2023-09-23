@@ -38,7 +38,7 @@ This repository contains the source code for my personal portfolio website. It f
 
 -To run this project locally, follow these steps:
 
--1. Clone the repository to your local machine using the following command:
+-1. Clone the repository to your local machine using the following command
 -2.git clone https://github.com/xHARDIKx/my-portfolio.git
 -3.Open the project folder in your preferred code editor.
 
