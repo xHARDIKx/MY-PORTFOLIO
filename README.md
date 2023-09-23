@@ -1,62 +1,45 @@
 # MY-PORTFOLIO
-Portfolio
-Portfolio Preview
 
-**Table of Contents**
-Description
-Features
-Demo
-Installation
-Usage
-Technologies Used
-Contributing
-License
-Contact
-Description
-This repository contains the source code for my personal portfolio website. It showcases my projects, skills, and provides a brief introduction about me.
+# My Portfolio Website
 
-**Features**
-Responsive design for various screen sizes
-Sections for About Me, Projects, Contact, etc.
-Smooth animations and transitions
-**Demo**
-You can view a live demo of the portfolio at https://hardik0o0.free.nf/
+![Portfolio Preview](portfolio_preview.png)
 
-Portfolio Demo Gif
+## Table of Contents
 
-**Installation**
+- [Description](#description)
+- [Sections](#sections)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Description
+
+This repository contains the source code for my personal portfolio website. It features sections for About Me, Home, Skills, Contact Us, and Resume.
+
+## Sections
+
+- **Home**: Provides an introduction and overview of my skills and experiences.
+- **About Me**: Offers a detailed description of who I am, my background, and my interests.
+- **Skills**: Highlights the technical and soft skills I possess relevant to my field.
+- **Contact Us**: Allows visitors to get in touch with me easily through a contact form.
+- **Resume**: Provides a downloadable PDF version of my resume.
+
+## Demo
+
+You can view a live demo of the portfolio at [Link to Live Demo](https://www.your-portfolio-website.com).
+
+![Portfolio Demo Gif](portfolio_demo.gif)
+
+## Installation
+
 To run this project locally, follow these steps:
 
-Clone the repository to your local machine using the following command:
-bash
-Copy code
-git clone https://github.com/xHARDIKx/my-portfolio.git
-Open the project folder in your preferred code editor.
+1. Clone the repository to your local machine using the following command:
 
-Open index.html in your web browser.
+```bash
+git clone https://github.com/your-username/portfolio-website.git
 
-**Usage**
-Customize the portfolio to make it your own:
-
-Replace the placeholder content in index.html with your own information.
-Add your projects in the projects section.
-Customize the styling in styles.css to match your personal brand.
-
-
-**Technologies Used**
-HTML
-CSS
-JavaScript
-[Library/Framework, e.g., Bootstrap, React, etc.]
-Contributing
-If you'd like to contribute to this project, please follow these steps:
-
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push to your fork and submit a pull request.
-License
-This project is licensed under the MIT License.
-
-**Contact**
-For inquiries or feedback, please contact me at your-email@example.com.
