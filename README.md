@@ -39,8 +39,8 @@ This repository contains the source code for my personal portfolio website. It f
 - To run this project locally, follow these steps:
 
 - 1. Clone the repository to your local machine using the following command
-- 2.git clone https://github.com/xHARDIKx/my-portfolio.git
-- 3.Open the project folder in your preferred code editor.
+- 2. git clone https://github.com/xHARDIKx/my-portfolio.git
+- 3. Open the project folder in your preferred code editor.
 
 - Open index.html in your web browser.
 
@@ -101,15 +101,15 @@ This repository contains the source code for my personal portfolio website. It f
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Contact
-- For inquiries or feedback, please contact me at your-Hardik21673@gmail.com.
+- For inquiries or feedback, please contact me at your -Hardik21673@gmail.com.
 
 - Thank you for visiting my portfolio!
 
 - Author: Hardik
 
-- Website: [https://hardik0o0.free.nf/]
+- Website: https://hardik0o0.free.nf/
 
-LinkedIn: https://www.linkedin.com/in/hardik0o0/
+- LinkedIn: https://www.linkedin.com/in/hardik0o0/
 
-GitHub: xHARDIKx
+- GitHub: xHARDIKx
 
