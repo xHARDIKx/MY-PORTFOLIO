@@ -20,7 +20,7 @@ Responsive design for various screen sizes
 Sections for About Me, Projects, Contact, etc.
 Smooth animations and transitions
 Demo
-You can view a live demo of the portfolio at Link to Live Demo.
+You can view a live demo of the portfolio at https://hardik0o0.free.nf/
 
 Portfolio Demo Gif
 
