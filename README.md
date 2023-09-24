@@ -69,7 +69,7 @@ This repository contains the source code for my personal portfolio website. It f
 
 # Contact
 
-- For inquiries or feedback, please contact me at your-email@example.com.
+- For inquiries or feedback, please contact me at -hardik21673@gmail.com.
 
 - Note: This README is just a template. You should customize it to suit your specific project.
 
