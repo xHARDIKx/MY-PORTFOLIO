@@ -2,7 +2,7 @@
 
 # My Portfolio Website
 
-![Portfolio Preview](icons/portfolio_preview.png)
+![Portfolio Preview](docs/portfolio_preview.png)
 
 ## Table of Contents
 
