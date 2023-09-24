@@ -3,19 +3,7 @@
  
 
 
-document.addEventListener('DOMContentLoaded', function() {
-    const homeSection = document.querySelector('.home');
-    let position = 0;
 
-    function moveBackground() {
-        position += 1; // Adjust the speed as needed
-        homeSection.style.backgroundPosition = position + 'px 0';
-        requestAnimationFrame(moveBackground);
-    }
-
-    moveBackground();
-
-});
 
 document.addEventListener('DOMContentLoaded', function() {
     const links = document.querySelectorAll('.nav-buttons a');
@@ -61,3 +49,4 @@ function sendEmail() {
 //         message => alert("mail sent successfully") 
 //     );
 // } 
+
