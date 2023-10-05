@@ -2,7 +2,7 @@
 
 # My Portfolio Website
 
-![Portfolio Preview](docs/portfolio_preview.png)
+![Portfolio Preview](portfolio_preview.png)
 
 ## Table of Contents
 
@@ -69,7 +69,7 @@ This repository contains the source code for my personal portfolio website. It f
 
 # Contact
 
-- For inquiries or feedback, please contact me at -hardik21673@gmail.com.
+- For inquiries or feedback, please contact me at your-email@example.com.
 
 - Note: This README is just a template. You should customize it to suit your specific project.
 
