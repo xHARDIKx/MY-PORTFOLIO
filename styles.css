@@ -731,7 +731,7 @@ border-radius: 0.3125rem;
   }
   @media(max-width:500px){
       html{
-          font-size: 45%;
+          font-size: 40%;
       }
   }
   @media(max-width:400px){
